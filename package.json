@@ -1,0 +1,26 @@
+{
+  "name": "afresh2-common-fun",
+  "version": "0.1.0",
+  "description": "common fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afresh2/afresh2-common-fun.git"
+  },
+  "keywords": [
+    "common",
+    "js",
+    "function",
+    "export",
+    "module"
+  ],
+  "author": "afresh2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Afresh2/afresh2-common-fun/issues"
+  },
+  "homepage": "https://github.com/Afresh2/afresh2-common-fun#readme"
+}
